@@ -1,0 +1,42 @@
+body{
+  font-family:"Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+  font-size:14px;
+  line-height:1.846;
+  color:#666666;
+  background-color:#eaeaea;
+}
+
+.navbar-default .navbar-nav > .active > a, .navbar-default .navbar-nav > .active > a:hover, .navbar-default .navbar-nav > .active > a:focus{
+  color:#212121;
+  background-color:#eaeaea;
+}
+
+.navbar{
+  position:relative;
+  min-height:64px;
+  margin-bottom:23px;
+  box-shadow:none;
+}
+
+h3.panel-title{
+  font-size:18.5px;
+  font-style:normal;
+  padding:10px;
+}
+
+span.data-promo{
+  font-size:14px;
+  margin-left:5px;
+}
+
+div#chartContainer{
+  height:370px;
+  width:100%;
+}
+
+form.bootstrap-form-with-validation{
+  background-color:#fff;
+  padding:15px;
+  margin-bottom:12px;
+}
+
